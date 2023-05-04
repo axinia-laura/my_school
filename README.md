@@ -14,7 +14,8 @@
         * Rezultate scolare/practicarea meditatiilor? 
         * Consiliere elevi 
 
-    2. Este un website, care va contine prezentarea diferitelor tipuri de activitati, recenzii si posibilitatea de cautare pentru:
+    2. Este un website, care va contine prezentarea diferitelor tipuri de activitati, 
+        recenzii si posibilitatea de cautare pentru:
         * ateliere/cursuri in fct de varsta, tip activitate, oras
         * tabere in functie de specific, varsta, locatie 
         * job-uri pentru scoli, gradinite si alte tipuri de organizatii in domeniul educatiei
@@ -35,8 +36,9 @@
 
 
 ## Care este scopul?
-         - transparenta mai buna a practicilor din scoli si alte unitati
-         - usurarea deciziilor parintilor in alegerea scolilor (private)
-         - usurarea deciziilor parintilor si elevilor in alegerea diferitelor activitati
-         - comunicarea feedback-ului de catre profesori, directorilor scolilor sau inspectoratului
-         - o vizualizare mai buna a job urilor disponibile in domeniul educational 
+        * transparenta mai buna a practicilor din scoli si alte unitati
+        * usurarea deciziilor parintilor in alegerea scolilor (private)
+        * usurarea deciziilor parintilor si elevilor in alegerea diferitelor activitati
+        * comunicarea feedback-ului de catre profesori, directorilor scolilor sau inspectoratului
+        * o vizualizare mai buna a job urilor disponibile in domeniul educational
+        * un loc care sa adune cat mai multe informatii utile pentru elevi, parinti, profesori
